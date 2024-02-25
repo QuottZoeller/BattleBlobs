@@ -1,0 +1,2 @@
+https://drive.google.com/drive/folders/1TwSQpmjPBjInNtX48U1tSC0rels83ihi?usp=drive_link
+// This is a link to a google drive with the build folder, download this folder and run the game.
